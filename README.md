@@ -1,4 +1,4 @@
-# ToDoList App - Android
+# ToDoList App - Android Jued
 
 This is a simple To-Do List application developed for Android using Java and SQLite. The app allows users to create tasks, mark them as done, edit existing tasks, and delete tasks. It provides features like setting priority, adding notes, and categorizing tasks for better organization. With a user-friendly interface, it helps users manage their daily tasks efficiently.
 
@@ -27,9 +27,8 @@ This is a simple To-Do List application developed for Android using Java and SQL
 ![Edit Task](app/edit_tasks.png)
 
 ## Contact Information
-- **Developer**: Parth Chauhan
-- **Email**: cparth495@gmail.com
-- **College**: BBIT,Anand,Gujarat
+- **Developer**: Antony jued
+- **Email**: antonyj&&&&@gmail.com
   
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
